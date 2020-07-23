@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ffebda3e-7c71-4b78-bde5-15899377bdb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/ArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/EncryptAndDecryptApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/LongestSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/maskify/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/reversepolishnotation/ReversePolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/ConsumerAndSupplier/ConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/ConsumerAndSupplier/SupplierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/ManyToMany/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/functionalInterface/predicate/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/functionalInterface/predicate/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dev/java8/functionalInterface/predicate/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,22 +50,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="E:/Lendico/PlanGenerator" />
+    <property name="last_opened_file_path" value="D:/Spring Projects/plan-generator" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.dev.java8.maskify" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreditCard">
-    <configuration name="ArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dev.java8.ArrayElements" />
+  <component name="RunManager" selected="Application.SupplierTest">
+    <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dev.java8.ConsumerAndSupplier.ConsumerTest" />
       <module name="Java8Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dev.java8.maskify.*" />
+          <option name="PATTERN" value="com.dev.java8.ConsumerAndSupplier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dev.java8.LongestSubArray" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dev.java8.functionalInterface.predicate.Solution" />
       <module name="Java8Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dev.java8.maskify.*" />
+          <option name="PATTERN" value="com.dev.java8.functionalInterface.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dev.java8.Solution2" />
+    <configuration name="SupplierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dev.java8.ConsumerAndSupplier.SupplierTest" />
       <module name="Java8Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dev.java8.maskify.*" />
+          <option name="PATTERN" value="com.dev.java8.ConsumerAndSupplier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SupplierTest" />
+        <item itemvalue="Application.ConsumerTest" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.CreditCard" />
         <item itemvalue="Application.EncryptAndDecryptApp" />
-        <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.ArrayElements" />
-        <item itemvalue="Application.LongestSubArray" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +164,18 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="test commit" />
@@ -157,49 +185,45 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1595497605257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1595497605257" />
     <state x="466" y="258" width="500" height="219" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590650698300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="258" width="500" height="219" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1590650698300" />
-    <state x="331" y="0" key="CommitChangelistDialog2" timestamp="1582719514888">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1592899852201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="331" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582719514888" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1582103576837">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592899852201" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1595508393570">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582103576837" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1590567376615">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595508393570" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1595508393569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590567376615" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1590567376615">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595508393569" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1595508393569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590567376615" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1590567376615">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595508393569" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1595508393569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590567376615" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1590567376615">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595508393569" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1595508488122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590567376615" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1582719518565">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582719518565" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595508488122" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590650911344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1590650911344" />
-    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1583169873609">
+    <state x="65" y="0" key="new project wizard" timestamp="1592899527187">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1583169873609" />
-    <state x="65" y="60" key="new project wizard" timestamp="1583264585017">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583264585017" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592899527187" />
   </component>
 </project>
